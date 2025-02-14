@@ -1,0 +1,144 @@
+{
+    "main": {
+      "name":"Farhan Khan",
+      "skillDescription":"Full Stack Developer",
+      "contactDescription":"If you find anything related to my profile please let me know.",
+      "portfolioDescription": "Explore My Work, See the Vision",
+      "skillTagline":"Building the future with clean, efficient, and scalable code.",
+      "description":"I’m a software developer with a passion for building innovative and efficient solutions. With expertise in PHP and JS framework, I specialize in creating full-stack applications that deliver great user experiences.",
+      "image":"profilepic.jpg",
+      "bio":"Hi, I’m Farhan khan, a software developer with a passion for building innovative and efficient solutions. With expertise in PHP and JS framework, I specialize in creating full-stack applications that deliver great user experiences.I thrive on learning new technologies and collaborating on challenging projects. My goal is to continue growing as a developer while delivering high-quality software that meets both technical and user needs.",
+      "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "khanfarhan.frk@gmail.com",
+      "phone": "7974806285",
+      "age":"28",
+      "degree":"Bachelors Of Engineering",
+      "birthday":"10-09-1992",
+      "github":"https://github.com/Fk1009",
+      "project":"https://github.com/Fk1009",
+      "address":{
+        "street":"39, Shri Pal Marg Lohe Ka Pull",
+        "city":"Ujjain",
+        "state":"Madhya Pradesh",
+        "zip": "456006"
+      },
+      "website": "https://hereaboutme.netlify.app/",
+      "resumedownload":"FarhanReactLaravel.docx",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/khanfarhan.frk",
+          "className":"bi bi-facebook"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/farhan-k-5b486050",
+          "className":"bi bi-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/farhankhan_Officiall/?hl=en",
+          "className":"bi bi-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/Fk1009",
+          "className":"bi bi-github"
+        }
+      ]
+    },
+    "resume":{
+      "careerObjective":"Want to involve myself in a challenging environment offering scope for Growth & Development and an opportunity to apply my learning to effectively contribute towards the achievement of the organizational objective.",
+      "skillmessage":"Professional Capabilities",
+      "education":[
+        {
+          "school":"Prashanti Institute of Technology & Science, Ujjain",
+          "degree":"Bachelors Of Engineering",
+          "graduated":"April 2014",
+          "description":"Bachelor of engineering from Prashanti institute of technology and science, Ujjain affiliated to RGTU, Bhopal with specialization in Electronics And Communication (2010-2014)( CGPA 7.46)"
+        },
+        {
+          "school":"Study Home Higher Secondery School",
+          "degree":"MP Board",
+          "graduated":"April 2010",
+          "description":"Higher secondary certificate from board of secondary education Bhopal with 75% in 2010"
+        }
+      ],
+      "work":[  
+        {
+          "company":"Profilics Pvt Ltd, Ujjain",
+          "title":"Software Developer",
+          "years":"May 2023 - Present",
+          "description":"Managing Vue.js/Nuxt.js/cakephp/symfony development for U.S. client projects, collaborating with leads on home generation initiatives"
+        },
+        {
+          "company":"Valere Labs Pvt Ltd, Indore",
+          "title":"Software Developer",
+          "years":"May 2022 - March 2023",
+          "description":"Working on US client projects of Reactjs.Integrate designs and wireframes within the application code.Complete understamding of ReactJS and its fundamentals like JSX.Knowledge of CMS dashboard with their roles and functionality."
+        },
+        {
+          "company":"Neosoft Technologies, Indore",
+          "title":"Software Developer",
+          "years":"May 2021 - May 2022",
+          "description":"Understanding of how great design fuels an excellent user experience.Knowledge and proficiency with WordPress CMS.Demonstrable knowledge of front-end technologies such as HTML, CSS & JQuery.Working knowledge of MySQL databases.Ability to multitask while maintaining careful attention to detail.Ability to work effectively both individually and within a team environment"
+        },
+        {
+          "company":"Teleperformance, Indore, Indore",
+          "title":"Customer Support Executive",
+          "years":"Dec 2016 - Dec 2017",
+          "description":"Handle all the Query tickets/mail of the Uber or Ola Cabs Customers."
+        }
+      ],
+      "skills":[
+        {
+          "name":"PHP",
+          "level":"70%"
+        },
+        {
+          "name":"Laravel/CI",
+          "level":"70%"
+        },
+        {
+          "name":"VueJs",
+          "level":"40%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"20%"
+        },
+        {
+          "name":"MySql",
+          "level":"50%"
+        },
+        {
+          "name":"HTML/CSS",
+          "level":"70%"
+        },
+        {
+          "name":"Jquery",
+          "level":"40%"
+        },
+        {
+          "name":"JS",
+          "level":"40%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Housejet",
+          "category":"Create home Leads for Buyer and seller",
+          "image":"01.png",
+          "url":"https://www.housejet.com"
+        },
+        {
+          "title":"Social Dating",
+          "category":"Dating app",
+          "image":"02.png",
+          "url":"http://www.dev.social.com"
+        }
+      ]
+    }
+  }
