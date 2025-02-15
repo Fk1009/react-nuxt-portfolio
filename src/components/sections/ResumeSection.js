@@ -17,7 +17,7 @@ return (
               <h4>{resumeDetails?.main?.name}</h4>
               <p><em>{resumeDetails?.resume?.careerObjective}</em></p>
               <ul>
-                <li>{resumeDetails?.main?.address?.city}</li>
+                <li>{resumeDetails?.main?.address?.street}, {resumeDetails?.main?.address?.state}, {resumeDetails?.main?.address?.city}</li>
                 <li>{resumeDetails?.main?.phone}</li>
                 <li>{resumeDetails?.main?.email}</li>
               </ul>

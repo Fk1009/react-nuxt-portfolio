@@ -19,14 +19,14 @@ const ContactSection = () => {
             <p>{addressDetails?.address?.street}, {addressDetails?.address?.state} {addressDetails?.address?.city}, {addressDetails?.address?.zip}</p>
           </div>
         </div>
-        <div className="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+        <div className="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
           <i className="bi bi-telephone flex-shrink-0"></i>
           <div>
             <h3>Call Us</h3>
             <p>{addressDetails?.phone}</p>
           </div>
         </div>
-        <div className="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+        <div className="info-item d-flex" data-aos="fade-up" data-aos-delay="600">
           <i className="bi bi-envelope flex-shrink-0"></i>
           <div>
             <h3>Email Us</h3>

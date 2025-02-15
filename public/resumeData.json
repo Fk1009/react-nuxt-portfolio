@@ -14,8 +14,49 @@
       "age":"28",
       "degree":"Bachelors Of Engineering",
       "birthday":"10-09-1992",
+      "gender":"Male",
+      "religion":"Muslim",
+      "nationality":"Indian",
+      "maritalStatus":"Married",
+      "FatherName":"Mohammad Nasir khan",
       "github":"https://github.com/Fk1009",
       "project":"https://github.com/Fk1009",
+      "awards":[
+        {
+         "awrd1":"First rank in board examinations in school"
+        },
+        {
+          "awrd1":"Certificate in Bhartiya Sanskrit gyan pariksha"
+        },
+        {
+          "awrd1":"Certificate in JamiaIslamiyat exam from Bhopal"
+        },
+        {
+          "awrd1": "Certificate in swimming from khel yuva kalyan vibhag"
+        }
+      ],
+      "strength":[
+        {
+         "strnth1":"Adaptability and ability to learn new things"
+        },
+        {
+          "strnth1":"Quick learner"
+        },
+        {
+          "strnth1":"Can work hard with sincerity even in stressful conditions."
+        }
+      ],
+      "hobbies":[
+        {
+         "hob1":"Socializing with Friends and Family"
+        },
+        {
+          "hob1":"Poetry"
+        },
+        {
+          "hob1":"Swimming"
+        }
+      ],
       "address":{
         "street":"39, Shri Pal Marg Lohe Ka Pull",
         "city":"Ujjain",
