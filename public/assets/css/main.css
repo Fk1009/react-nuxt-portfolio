@@ -711,7 +711,7 @@ section,
 # Resume Section
 --------------------------------------------------------------*/
 .resume .resume-title {
-  color: var(--heading-color);
+  color: #050d18;
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
@@ -721,7 +721,7 @@ section,
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid var(--accent-color);
+  border-left: 2px solid #149ddd;
   position: relative;
 }
 
@@ -730,7 +730,7 @@ section,
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  color: color-mix(in srgb, var(--default-color), transparent 20%);
+  color: #4f5356; /* Replaced color-mix with a solid color */
   margin-bottom: 10px;
 }
 
@@ -762,10 +762,36 @@ section,
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: var(--background-color);
-  border: 2px solid var(--accent-color);
+  background: #ffffff;
+  border: 2px solid #149ddd;
 }
 
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px; /* Adjust size */
+  height: 50px; /* Adjust size */
+  border-radius: 5px; /* Optional for rounded corners */
+  background-color: #007bff; /* Button color */
+  color: white;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 0 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.download-btn i {
+  margin-right: 8px; /* Space between the icon and text */
+  font-size: 18px; /* Adjust icon size */
+}
+
+.download-btn:hover {
+  background-color: #0056b3; /* Darker color on hover */
+  transition: background-color 0.3s ease;
+}
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
